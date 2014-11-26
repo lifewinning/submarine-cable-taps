@@ -9,8 +9,26 @@ Seeing Telegeography publishes landing point maps and [submarine cable maps](htt
 Initial methods are very, very messy here. There's a lot of data cleanup that is probably going to need to happen. Reasons for the messiness:
 
 - The PDF list of cables was hella dirty and it OCR-ed poorly, there's the possibility of manual cleanup errors.
-- Names of cables in the GCHQ doc are not always exactly matched up to cables in the Telegeography data. I did a sloppy table join and I need to go through and actually check that I got everything. 
+- Names of cables in the GCHQ doc are not always exactly matched up to cables in the Telegeography data. I did a really sloppy table join and caught a few manual ones, but here are some cables listed in the GCHQ document that I haven't found a match for: 
+	- Americas II
+	- Antilles 1
+	- APCN
+	- Carac
+	- Denmark-Russia 1
+	- Guam-Phillipines
+	- PEC
+	- Southern Cross
+	- TPC-5
+	- UK-Germany 6
+	- UK-Netherlands 1
 
 What I'm saying is don't just run with this dataset, it really needs some thorough double-checking. 
+
+##References
+
+- Obviously so grateful that Süddeutsche Zeitung put all these documents [online](https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view).
+- [pypdfocr](https://pypi.python.org/pypi/pypdfocr) is a goddamn lifesaver command line tool. Seriously. 
+- [Tabula](http://tabula.technology/) is great for quick-and-dirty csv-ifying of OCR-ed PDF tables.
+- [Joiner](http://github.com/mhkeller/joiner) is a nice little node module by my friend Michael Keller that lets you do the kind of table joins you want to do in GIS software but with jsons. 
 
 ##Onward.

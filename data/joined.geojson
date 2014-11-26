@@ -1,4 +1,5 @@
-{"type": "FeatureCollection",
+{
+    "type": "FeatureCollection",
     "features": [
       {
         "type": "Feature",
@@ -4327,14 +4328,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4370,14 +4371,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4408,14 +4409,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4446,14 +4447,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4499,14 +4500,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4542,14 +4543,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4580,14 +4581,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4658,14 +4659,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4696,14 +4697,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4734,14 +4735,14 @@
           "owners": "Telekom Malaysia,  AT&T,  Starhub,  PLDT,  Communications Authority of Thailand,  airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Telecom New Zealand,  Viettel Corporation,  Saigon Postal Corporation,  Vietnam Telecom International,  Brunei International Gateway,  BayanTel",
           "url": "http://www.asia-america-gateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4923,14 +4924,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -4976,14 +4977,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5049,14 +5050,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5087,14 +5088,14 @@
           "owners": "Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telefonica,  Portugal Telecom,  France Telecom,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  Belgacom,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon Business,  TPSA,  BT",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5140,14 +5141,14 @@
           "owners": "Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telefonica,  Portugal Telecom,  France Telecom,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  Belgacom,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon Business,  TPSA,  BT",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5183,14 +5184,14 @@
           "owners": "Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telefonica,  Portugal Telecom,  France Telecom,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  Belgacom,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon Business,  TPSA,  BT",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5226,14 +5227,14 @@
           "owners": "Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telefonica,  Portugal Telecom,  France Telecom,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  Belgacom,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon Business,  TPSA,  BT",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5289,14 +5290,14 @@
           "owners": "Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telefonica,  Portugal Telecom,  France Telecom,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  Belgacom,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon Business,  TPSA,  BT",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5400,14 +5401,14 @@
           "owners": "Softbank Telecom,  NTT,  Telstra,  Verizon Business,  AT&T",
           "url": "http://www.ajcable.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5463,14 +5464,14 @@
           "owners": "Softbank Telecom,  NTT,  Telstra,  Verizon Business,  AT&T",
           "url": "http://www.ajcable.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5506,14 +5507,14 @@
           "owners": "Softbank Telecom,  NTT,  Telstra,  Verizon Business,  AT&T",
           "url": "http://www.ajcable.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -5569,14 +5570,14 @@
           "owners": "Softbank Telecom,  NTT,  Telstra,  Verizon Business,  AT&T",
           "url": "http://www.ajcable.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7632,14 +7633,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7670,14 +7671,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7708,14 +7709,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7756,14 +7757,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7794,14 +7795,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7832,14 +7833,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -7890,14 +7891,14 @@
           "owners": "Faroese Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8135,14 +8136,14 @@
           "owners": "Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "DCO",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8461,14 +8462,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8499,14 +8500,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8537,14 +8538,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8575,14 +8576,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8613,14 +8614,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8651,14 +8652,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8739,14 +8740,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8792,14 +8793,14 @@
           "owners": "Verizon Business,  AT&T,  KDDI,  Tata Communications,  China Telecom,  Chunghwa Telecom,  KT,  NTT,  Level 3,  SingTel,  Sprint,  Telekom Malaysia,  Telecom New Zealand,  Telstra,  PCCW,  LG Uplus,  Softbank Telecom,  Rostelecom,  SingTel Optus,  France Telecom",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8979,14 +8980,14 @@
           "owners": "Telecom Italia Sparkle,  AT&T,  Verizon Business,  Telefonica,  Portugal Telecom,  CANTV,  Tata Communications,  Ukrtelecom,  Corporacion Nacional de Telecommunicaciones,  Telkom South Africa,  Telecom Argentina,  Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -9017,14 +9018,14 @@
           "owners": "Telecom Italia Sparkle,  AT&T,  Verizon Business,  Telefonica,  Portugal Telecom,  CANTV,  Tata Communications,  Ukrtelecom,  Corporacion Nacional de Telecommunicaciones,  Telkom South Africa,  Telecom Argentina,  Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -9055,14 +9056,14 @@
           "owners": "Telecom Italia Sparkle,  AT&T,  Verizon Business,  Telefonica,  Portugal Telecom,  CANTV,  Tata Communications,  Ukrtelecom,  Corporacion Nacional de Telecommunicaciones,  Telkom South Africa,  Telecom Argentina,  Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -9108,14 +9109,14 @@
           "owners": "Telecom Italia Sparkle,  AT&T,  Verizon Business,  Telefonica,  Portugal Telecom,  CANTV,  Tata Communications,  Ukrtelecom,  Corporacion Nacional de Telecommunicaciones,  Telkom South Africa,  Telecom Argentina,  Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -9166,14 +9167,14 @@
           "owners": "Telecom Italia Sparkle,  AT&T,  Verizon Business,  Telefonica,  Portugal Telecom,  CANTV,  Tata Communications,  Ukrtelecom,  Corporacion Nacional de Telecommunicaciones,  Telkom South Africa,  Telecom Argentina,  Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -11969,14 +11970,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12007,14 +12008,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12115,14 +12116,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12153,14 +12154,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12191,14 +12192,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12254,14 +12255,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12352,14 +12353,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12405,14 +12406,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12448,14 +12449,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12486,14 +12487,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12529,14 +12530,14 @@
           "owners": "AT&T,  airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon Business,  Vodafone",
           "url": "https://www.europeindiagateway.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12673,14 +12674,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -12736,14 +12737,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13019,14 +13020,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13067,14 +13068,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13105,14 +13106,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13288,14 +13289,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13336,14 +13337,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13374,14 +13375,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13412,14 +13413,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13450,14 +13451,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13493,14 +13494,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13536,14 +13537,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13599,14 +13600,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13637,14 +13638,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13700,14 +13701,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13738,14 +13739,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13796,14 +13797,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "‘",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -13834,14 +13835,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -13872,14 +13873,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -13910,14 +13911,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -13948,14 +13949,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -13986,14 +13987,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -14029,14 +14030,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -14232,14 +14233,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -14320,14 +14321,14 @@
           "owners": "Reliance Globalcom",
           "url": "http://www.relianceglobalcom.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -14630,14 +14631,14 @@
           "owners": "Reliance Globalcom,  PCCW,  Telstra",
           "url": "",
           "": "Reliance Globalcom owns 3 fiber pairs which it refers to as FLAG North Asia Loop. Of the three remaining fiber pairs comprising the REACH North Asia Loop, Telstra owns one fiber pair, PCCW owns one fiber pair, with the final fiber pair is jointly owned by Telstra and PCCW",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -15764,14 +15765,14 @@
           "owners": "BTG Pactual",
           "url": "http://www.globenet.net",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -15837,14 +15838,14 @@
           "owners": "BTG Pactual",
           "url": "http://www.globenet.net",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -15895,14 +15896,14 @@
           "owners": "BTG Pactual",
           "url": "http://www.globenet.net",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -15938,14 +15939,14 @@
           "owners": "BTG Pactual",
           "url": "http://www.globenet.net",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -15986,14 +15987,14 @@
           "owners": "GO plc",
           "url": "http://www.go.com.mt",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -16709,14 +16710,14 @@
           "owners": "Hibernia Networks",
           "url": "http://www.hibernianetworks.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": "IRU/LC"
         }
       },
       {
@@ -16817,14 +16818,14 @@
           "owners": "Hibernia Networks",
           "url": "http://www.hibernianetworks.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": "IRU/LC"
         }
       },
       {
@@ -18290,14 +18291,14 @@
           "owners": "Verizon Business,  AT&T,  BT,  Sprint,  CenturyLink,  KDDI,  NTT,  Chunghwa Telecom,  Tata Communications,  SingTel,  Telekom Malaysia,  Softbank Telecom,  France Telecom,  Level 3,  Zayo Group,  SK Broadband,  KT,  China Telecom,  China Unicom,  LG Uplus,  New World Telecom,  Starhub,  PCCW,  Telstra,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -18368,14 +18369,14 @@
           "owners": "Verizon Business,  AT&T,  BT,  Sprint,  CenturyLink,  KDDI,  NTT,  Chunghwa Telecom,  Tata Communications,  SingTel,  Telekom Malaysia,  Softbank Telecom,  France Telecom,  Level 3,  Zayo Group,  SK Broadband,  KT,  China Telecom,  China Unicom,  LG Uplus,  New World Telecom,  Starhub,  PCCW,  Telstra,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -18411,14 +18412,14 @@
           "owners": "Verizon Business,  AT&T,  BT,  Sprint,  CenturyLink,  KDDI,  NTT,  Chunghwa Telecom,  Tata Communications,  SingTel,  Telekom Malaysia,  Softbank Telecom,  France Telecom,  Level 3,  Zayo Group,  SK Broadband,  KT,  China Telecom,  China Unicom,  LG Uplus,  New World Telecom,  Starhub,  PCCW,  Telstra,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -18454,14 +18455,14 @@
           "owners": "Verizon Business,  AT&T,  BT,  Sprint,  CenturyLink,  KDDI,  NTT,  Chunghwa Telecom,  Tata Communications,  SingTel,  Telekom Malaysia,  Softbank Telecom,  France Telecom,  Level 3,  Zayo Group,  SK Broadband,  KT,  China Telecom,  China Unicom,  LG Uplus,  New World Telecom,  Starhub,  PCCW,  Telstra,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -19007,14 +19008,14 @@
           "owners": "TeliaSonera,  Tele2,  Lattelecom,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "DCO",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -21321,14 +21322,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22109,14 +22110,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22147,14 +22148,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22185,14 +22186,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22228,14 +22229,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22266,14 +22267,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22304,14 +22305,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22342,14 +22343,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22390,14 +22391,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22438,14 +22439,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22501,14 +22502,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22569,14 +22570,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22607,14 +22608,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22655,14 +22656,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22718,14 +22719,14 @@
           "owners": "AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon Business,  PCCW,  Telecom Argentina,  Telconet,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22806,14 +22807,14 @@
           "owners": "NTT",
           "url": "http://www.pc1.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -22884,14 +22885,14 @@
           "owners": "NTT",
           "url": "http://www.pc1.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "IRU/LC",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23478,14 +23479,14 @@
           "owners": "Rostelecom,  KDDI",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23799,14 +23800,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23837,14 +23838,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23885,14 +23886,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23923,14 +23924,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23961,14 +23962,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -23999,14 +24000,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24037,14 +24038,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24075,14 +24076,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24113,14 +24114,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24236,14 +24237,14 @@
           "owners": "Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Belgacom,  Sprint,  SingTel,  KPN,  France Telecom,  Telecom Italia Sparkle,  Telecom Namibia,  Telekom Malaysia,  Telefonica,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Deutsche Telekom,  Maroc Telecom,  KT,  Portugal Telecom,  PCCW,  Telstra,  Cytaglobal,  Neotel,  Vodafone",
           "url": "http://www.safe-sat3.co.za",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "DCO",
+          "GERONTIC": "DCO",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24942,14 +24943,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -24980,14 +24981,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25033,14 +25034,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25071,14 +25072,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25109,14 +25110,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25152,14 +25153,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25200,14 +25201,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25243,14 +25244,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25281,14 +25282,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25334,14 +25335,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25402,14 +25403,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25465,14 +25466,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25543,14 +25544,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25581,14 +25582,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25619,14 +25620,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25667,14 +25668,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25705,14 +25706,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25743,14 +25744,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25796,14 +25797,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25834,14 +25835,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25877,14 +25878,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25915,14 +25916,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -25958,14 +25959,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26031,14 +26032,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26074,14 +26075,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26112,14 +26113,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26160,14 +26161,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26198,14 +26199,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26246,14 +26247,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26299,14 +26300,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26337,14 +26338,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26375,14 +26376,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26418,14 +26419,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26456,14 +26457,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26494,14 +26495,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26532,14 +26533,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26570,14 +26571,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26608,14 +26609,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26646,14 +26647,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26684,14 +26685,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26722,14 +26723,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26760,14 +26761,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26798,14 +26799,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26841,14 +26842,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26879,14 +26880,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26917,14 +26918,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -26955,14 +26956,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27003,14 +27004,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27046,14 +27047,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27084,14 +27085,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27122,14 +27123,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27165,14 +27166,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27203,14 +27204,14 @@
           "owners": "France Telecom,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  AT&T,  Belgacom,  Communications Authority of Thailand,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Brunei,  KT,  Portugal Telecom,  Maroc Telecom,  PLDT,  Saudi Telecom,  Sri Lanka Telecom,  Turk Telekom,  Tata Communications,  Chunghwa Telecom,  Verizon Business,  KPN,  Telekom Austria,  SingTel Optus,  Telstra,  Vietnam Telecom International,  Omantel,  PCCW,  Pakistan Telecommunications Company Ltd.,  Cytaglobal,  eircom,  LG Uplus,  Softbank Telecom,  Telkom South Africa,  Rostelecom,  TPSA,  SingTel Optus,  Telecom Argentina,  Telecom New Zealand,  Myanmar Post and Telecommunication",
           "url": "http://www.seamewe3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "DCO",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -27301,14 +27302,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27349,14 +27350,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27402,14 +27403,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27445,14 +27446,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27523,14 +27524,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27561,14 +27562,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27604,14 +27605,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27657,14 +27658,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27695,14 +27696,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27743,14 +27744,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27781,14 +27782,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27819,14 +27820,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27857,14 +27858,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27930,14 +27931,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -27973,14 +27974,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28011,14 +28012,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28054,14 +28055,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28092,14 +28093,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28130,14 +28131,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28168,14 +28169,14 @@
           "owners": "France Telecom,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  PT Indonesia Satellite Corp.,  Telekom Malaysia,  airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  Communications Authority of Thailand,  Tunisia Telecom,  Verizon Business,  PCCW,  Pakistan Telecommunications Company Ltd.,  Telecom Egypt",
           "url": "http://www.seamewe4.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "IRU/LC",
+          "VITREOUS": ""
         }
       },
       {
@@ -28865,14 +28866,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "Level 3 owns three fiber pairs on the systems, which it calls South American Crossing. Telecom Italia owns one fiber  that is refers to as Latin American Nautilus.",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -28928,14 +28929,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "Level 3 owns three fiber pairs on the systems, which it calls South American Crossing. Telecom Italia owns one fiber  that is refers to as Latin American Nautilus.",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29006,14 +29007,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "Level 3 owns three fiber pairs on the systems, which it calls South American Crossing. Telecom Italia owns one fiber  that is refers to as Latin American Nautilus.",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29044,14 +29045,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "Level 3 owns three fiber pairs on the systems, which it calls South American Crossing. Telecom Italia owns one fiber  that is refers to as Latin American Nautilus.",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29117,14 +29118,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "Level 3 owns three fiber pairs on the systems, which it calls South American Crossing. Telecom Italia owns one fiber  that is refers to as Latin American Nautilus.",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32257,14 +32258,14 @@
           "owners": "Tata Communications",
           "url": "http://www.tatacommunications.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32325,14 +32326,14 @@
           "owners": "Tata Communications",
           "url": "http://www.tatacommunications.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32770,14 +32771,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32833,14 +32834,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32876,14 +32877,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32924,14 +32925,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -32962,14 +32963,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -33005,14 +33006,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -33053,14 +33054,14 @@
           "owners": "China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon Business,  NTT,  AT&T",
           "url": "http://tpecable.org",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "DCO",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -34532,14 +34533,14 @@
           "owners": "Level 3",
           "url": "http://www.level3.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -34964,14 +34965,14 @@
           "owners": "VTLWavenet,  euNetworks",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": "DCO"
         }
       },
       {
@@ -35002,14 +35003,14 @@
           "owners": "VTLWavenet,  euNetworks",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": "DCO"
         }
       },
       {
@@ -35533,14 +35534,14 @@
           "owners": "TDC,  TeliaSonera,  Tata Communications,  BT,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "DCO",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -35657,14 +35658,14 @@
           "owners": "Level 3",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -35695,14 +35696,14 @@
           "owners": "Level 3",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "UK",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -36170,14 +36171,14 @@
           "owners": "TeliaSonera,  Elisa,  Vodafone",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "DCO",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
