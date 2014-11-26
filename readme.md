@@ -31,4 +31,7 @@ What I'm saying is don't just run with this dataset, it really needs some thorou
 - [Tabula](http://tabula.technology/) is great for quick-and-dirty csv-ifying of OCR-ed PDF tables.
 - [Joiner](http://github.com/mhkeller/joiner) is a nice little node module by my friend Michael Keller that lets you do the kind of table joins you want to do in GIS software but with jsons. 
 
-##Onward.
+##Onward
+
+Other things I really should do: 
+- Since the submarine cable map is converted from a Google Fusion Table, the geojson has all this useful information trapped inside a `description` property--specifically, all the landing points. It would be cool to rescue these!
