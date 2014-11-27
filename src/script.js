@@ -74,10 +74,9 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
     var gchq = L.geoJson(data, {
       style: gchq_style,
       onEachFeature: function (feature, layer) {
-        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners+'<hr><h4>Which Program?</h4>'+ );
+        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners+'<hr><h4>Which Program?</h4>');
       }
     });
-    console.log(gchq);
     gchq.addTo(isgchq_layer);
   });
 
