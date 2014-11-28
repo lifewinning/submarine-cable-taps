@@ -37,23 +37,7 @@ body { margin:0; padding:0; }
     /*border: 1px solid #CCC;*/
     /*padding: 5px;*/
 }
-#map-ui li #readme {
-	list-style: none;
-	display: inline;
-	float: left;
-	width: auto;
-    font: 12px Helvetica, sans-serif;
-    font-weight: 800;
-    background: #aaa;
-    color: white;
-    margin: 0;
-    padding: 0;
-    border: 1px solid white;
-    padding: 5px;
-    color: black;
-	text-decoration: none;
-	text-transform: uppercase;
-}
+
 #map-ui li #gray {
 	list-style: none;
 	display: inline;
