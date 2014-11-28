@@ -5,6 +5,7 @@ var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: fa
 var layers = document.getElementById('map-ui');
 // layers
 var nogchq_layer = new L.FeatureGroup();
+var landing_points = new L.FeatureGroup();
 var isgchq_layer = new L.FeatureGroup();
 
 
@@ -13,6 +14,8 @@ new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 
 addLayer(nogchq_layer, 'gray', "Not In GCHQ Documents", 0);
 addLayer(isgchq_layer, 'orange', "In GCHQ Documents", 1);
+addLayer(landing_points, 'gray', "Landing Points", 2);
+
 
 function addLayer(layer, id, name, zIndex) {
     layer
@@ -62,12 +65,19 @@ var gchq_hover = {
     "opacity": 1
 };
 
-
+var landingPoints_style = {
+    "fillColor": "#fff",
+    "radius": 2,
+    "color": "#aaa",
+    "weight": 1,
+    "opacity": 1,
+    "fillOpacity": 1
+}
+    
 $.getJSON("./data/joined_nogchq.geojson", function(data) {
     var nogchq = L.geoJson(data, {style: nogchq_style});
     nogchq.addTo(nogchq_layer);
   });
-
 $.getJSON("./data/joined_isgchq.geojson", function(data) {
     var gchq = L.geoJson(data, {
       style: gchq_style,
@@ -92,3 +102,14 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
     });
     gchq.addTo(isgchq_layer);
   });
+$.getJSON("./data/landing_points.geojson", function(data){
+      var landingPoints = L.geoJson(data, {
+          onEachFeature: function (feature, layer){
+            layer.bindPopup('<b>'+feature.properties.name+'</b>')
+          },
+          pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, landingPoints_style)}
+      });
+    landingPoints.addTo(landing_points);
+});
+
