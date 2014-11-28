@@ -1,5 +1,5 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72HyEjF2AOMbRNvg';
-var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', { zoomControl: false })
+var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: false })
     .setView([0,0],2);
 
 var layers = document.getElementById('map-ui');
@@ -11,8 +11,8 @@ var isgchq_layer = new L.FeatureGroup();
 new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 // layer toggle 
 
-addLayer(nogchq_layer, "Not In GCHQ Documents", 0);
-addLayer(isgchq_layer,"Listed in GCHQ Documents", 1);
+addLayer(nogchq_layer, "Click To See Only Cables In GCHQ Documents", 0);
+addLayer(isgchq_layer,"Click To See Only Cables Not In GCHQ Documents", 1);
 
 function addLayer(layer, name, zIndex) {
     layer
@@ -65,6 +65,10 @@ var gchq_hover = {
     "opacity": 1
 };
 
+// function clickFeature (e, layer){
+//   var cable = e.target;
+//   map.fitBounds(layer.GetBounds()); 
+// }
 $.getJSON("./data/joined_nogchq.geojson", function(data) {
     var nogchq = L.geoJson(data, {style: nogchq_style});
     nogchq.addTo(nogchq_layer);
@@ -74,9 +78,23 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
     var gchq = L.geoJson(data, {
       style: gchq_style,
       onEachFeature: function (feature, layer) {
-        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners);
+        //hacky way to present program associations
+        var names = [
+            { feat: feature.properties.uk, name: 'UK'},
+            { feat: feature.properties.dacron, name: ' DACRON'  },
+            { feat: feature.properties.remedy, name: ' REMEDY' },
+            { feat: feature.properties.pinnage, name: ' PINNAGE' },
+            { feat: feature.properties.street_car, name: ' STREET CAR' },
+            { feat: feature.properties.gerontic, 'name': ' GERONTIC' },
+            { feat: feature.properties.vitreous, name: ' VITREOUS'},
+            { feat: feature.properties.little, name: ' LITTLE'}
+           ];
+        var programs = [];
+        for (var i = 0; i < names.length; i++) {
+          if (names[i].feat != ''){ programs.push(names[i].name)};
+        };
+        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners+'<hr><b>Associated GCHQ Programs: </b><br>'+ programs)
       }
     });
     gchq.addTo(isgchq_layer);
   });
-
