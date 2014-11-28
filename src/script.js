@@ -11,10 +11,10 @@ var isgchq_layer = new L.FeatureGroup();
 new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 // layer toggle 
 
-addLayer(nogchq_layer, "Click To See Only Cables In GCHQ Documents", 0);
-addLayer(isgchq_layer,"Click To See Only Cables Not In GCHQ Documents", 1);
+addLayer(nogchq_layer, 'orange', "Click To See Only Cables In GCHQ Documents", 0);
+addLayer(isgchq_layer, 'gray', "Click To See Only Cables Not In GCHQ Documents", 1);
 
-function addLayer(layer, name, zIndex) {
+function addLayer(layer, id, name, zIndex) {
     layer
         .setZIndex(zIndex)
         .addTo(map);
@@ -22,12 +22,14 @@ function addLayer(layer, name, zIndex) {
     // Create a simple layer switcher that
     // toggles layers on and off.
     var item = document.createElement('li');
+        item.id = id;
         link = document.createElement('a');
         link.href = '#';
         link.className = 'active';
         link.innerHTML = name;
         item.className= 'nav';
         link.href = '#';
+        link.id=id;
         link.innerHTML = name;
 
     link.onclick = function(e) {
