@@ -11,40 +11,35 @@ var isgchq_layer = new L.FeatureGroup();
 new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 // layer toggle 
 
-addLayer(nogchq_layer, 'orange', "Click To See Only Cables In GCHQ Documents", 0);
-addLayer(isgchq_layer, 'gray', "Click To See Only Cables Not In GCHQ Documents", 1);
+addLayer(nogchq_layer, 'gray', "Not In GCHQ Documents", 0);
+addLayer(isgchq_layer, 'orange', "In GCHQ Documents", 1);
 
 function addLayer(layer, id, name, zIndex) {
     layer
         .setZIndex(zIndex)
         .addTo(map);
 
-    // Create a simple layer switcher that
-    // toggles layers on and off.
     var item = document.createElement('li');
-        item.id = id;
-        link = document.createElement('a');
-        link.href = '#';
-        link.className = 'active';
-        link.innerHTML = name;
-        item.className= 'nav';
-        link.href = '#';
-        link.id=id;
-        link.innerHTML = name;
+        item.className= id;
+        check = document.createElement('input');
+        check.type = 'checkbox';
+        check.checked='checked';
+        txt = document.createElement('span');
+        txt.innerHTML = name;
 
-    link.onclick = function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-
+    check.onclick = function(e) {
+        //e.preventDefault();
+        //e.stopPropagation();
         if (map.hasLayer(layer)) {
             map.removeLayer(layer);
-            this.className = 'nav clearfix';
+            e.check.checked = ''
         } else {
             map.addLayer(layer);
-            this.className = 'nav active clearfix';
+            e.check.checked='checked';
         }
     };
-    item.appendChild(link);
+    item.appendChild(check);
+    item.appendChild(txt);
     layers.appendChild(item);
 
 }
@@ -67,10 +62,7 @@ var gchq_hover = {
     "opacity": 1
 };
 
-// function clickFeature (e, layer){
-//   var cable = e.target;
-//   map.fitBounds(layer.GetBounds()); 
-// }
+
 $.getJSON("./data/joined_nogchq.geojson", function(data) {
     var nogchq = L.geoJson(data, {style: nogchq_style});
     nogchq.addTo(nogchq_layer);
