@@ -73,6 +73,8 @@ var landingPoints_style = {
     "opacity": 1,
     "fillOpacity": 1
 }
+
+var cableIDs = [];
     
 $.getJSON("./data/joined_nogchq.geojson", function(data) {
     var nogchq = L.geoJson(data, {style: nogchq_style});
@@ -82,6 +84,8 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
     var gchq = L.geoJson(data, {
       style: gchq_style,
       onEachFeature: function (feature, layer) {
+      var idString = {"id": feature.properties.cable_id, "name" : feature.properties.name};
+      cableIDs.push(idString);
         //hacky way to present program associations
         var names = [
             { feat: feature.properties.uk, name: 'UK'},
@@ -101,11 +105,20 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
       }
     });
     gchq.addTo(isgchq_layer);
+    console.log(cableIDs);
   });
 $.getJSON("./data/landing_points.geojson", function(data){
       var landingPoints = L.geoJson(data, {
           onEachFeature: function (feature, layer){
-            layer.bindPopup('<b>'+feature.properties.name+'</b>')
+            for (var i = 0; i < cableIDs.length; i++) {
+                if (feature.properties.cable_id = cableIDs[i].id){
+                    var cableNames = [];
+                    cableNames.push(cableIDs[i].name);
+                    feature.properties['cable_name'] = cableNames;
+                }
+            };
+            layer.bindPopup('<b>'+feature.properties.name+'</b><hr>'+ '<b>Cable: </b>'+feature.properties.cable_name)
+            
           },
           pointToLayer: function (feature, latlng) {
           return L.circleMarker(latlng, landingPoints_style)}
