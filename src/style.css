@@ -2,28 +2,26 @@ body { margin:0; padding:0; }
 
 #map { position:absolute; top:0; bottom:0; width:100%; z-index: 0;}
 
-.clearfix:before,  
-.clearfix:after {  
-    content: " ";  
-    display: table;  
-}  
-.clearfix:after {  
-    clear: both;  
-}  
-.clearfix {  
-    *zoom: 1;  
-}  
-
+#info{
+	position: absolute;
+	bottom: 25px;
+	right: 10px;
+	padding: 10px;
+	background-color: white;
+	width: 200px;
+	min-height: 10px;
+	z-index: 99999;
+}
 /*nav*/
 #map-ui {
 	width: 100%;
 	height: 20px;
-	background: #ccc;
+	background: #eee;
 	padding: 5px;
 	padding-bottom: 10px;
 	font-family: 10px Helvetica, sans-serif;;
 	position: relative;
-	z-index: 999999;
+	z-index: 9999;
 }
 #map-ui li{
 	list-style: none;
@@ -32,32 +30,64 @@ body { margin:0; padding:0; }
 	width: auto;
     font: 12px Helvetica, sans-serif;
     font-weight: 800;
-    background: #FFF;
+    /*background: #FFF;*/
     color: #FF9900;
     margin: 0;
     padding: 0;
-    border: 1px solid #CCC;
-    padding: 5px;
+    /*border: 1px solid #CCC;*/
+    /*padding: 5px;*/
 }
 
-#map-ui li#label{
+#map-ui li.label{
 	font: 12px Helvetica, sans-serif;
-    color: #FFF;
-    background: #FF9900;
+    color: black;
+    background: #fff;
     margin: 0;
     padding: 0;
-    border: 1px solid #CCC;
+	border: 1px solid #ccc;
     padding: 5px;
     text-decoration: none;
     text-transform: uppercase;
 }
 
-#map-ui li a{
-	color: #FF9900;
+#map-ui li.label a{
+	font: 12px Helvetica, sans-serif;
+    color: #FF9900;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#map-ui .gray {
+	list-style: none;
+	display: inline;
+	float: left;
+	width: auto;
+    font: 12px Helvetica, sans-serif;
+    background: #ccc!important;
+    color: white!important;
+    margin: 0;
+    padding: 0;
+    border: 1px solid white!important;
+    padding: 2.5px;
+    color: black;
 	text-decoration: none;
 	text-transform: uppercase;
 }
-
+#map-ui .orange {
+	list-style: none;
+	display: inline;
+	float: left;
+	width: auto;
+    font: 12px Helvetica, sans-serif;
+    background: #FF9900!important;
+    color: white!important;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #eee!important;
+    padding: 2.5px;
+    color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+}
 #map-ui li.active {
     background: #ddd;
     color: #000;
