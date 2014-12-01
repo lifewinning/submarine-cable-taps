@@ -1,10 +1,14 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72HyEjF2AOMbRNvg';
-var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: false })
+var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: false, attributionControl:true})
     .setView([0,0],2);
+
+map.attributionControl
+    .addAttribution('Cable data from <a href="http://submarinecablemap.com">Telegeography</a>, GCHQ data via <a href="http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable">Süddeutsche Zeitung</a> ');
 
 var layers = document.getElementById('map-ui');
 // layers
 var nogchq_layer = new L.FeatureGroup();
+var landing_points = new L.FeatureGroup();
 var isgchq_layer = new L.FeatureGroup();
 
 
@@ -13,6 +17,8 @@ new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 
 addLayer(nogchq_layer, 'gray', "Not In GCHQ Documents", 0);
 addLayer(isgchq_layer, 'orange', "In GCHQ Documents", 1);
+//addLayer(landing_points, 'gray', "Cable Landing Points", 2);
+
 
 function addLayer(layer, id, name, zIndex) {
     layer
@@ -62,16 +68,27 @@ var gchq_hover = {
     "opacity": 1
 };
 
+var landingPoints_style = {
+    "fillColor": "#fff",
+    "radius": 2,
+    "color": "#aaa",
+    "weight": 1,
+    "opacity": 1,
+    "fillOpacity": 1
+}
 
+var cableIDs = [];
+    
 $.getJSON("./data/joined_nogchq.geojson", function(data) {
     var nogchq = L.geoJson(data, {style: nogchq_style});
     nogchq.addTo(nogchq_layer);
   });
-
 $.getJSON("./data/joined_isgchq.geojson", function(data) {
     var gchq = L.geoJson(data, {
       style: gchq_style,
       onEachFeature: function (feature, layer) {
+      var idString = {"id": feature.properties.cable_id, "name" : feature.properties.name};
+      cableIDs.push(idString);
         //hacky way to present program associations
         var names = [
             { feat: feature.properties.uk, name: 'UK'},
@@ -79,7 +96,7 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
             { feat: feature.properties.remedy, name: ' REMEDY' },
             { feat: feature.properties.pinnage, name: ' PINNAGE' },
             { feat: feature.properties.street_car, name: ' STREET CAR' },
-            { feat: feature.properties.gerontic, 'name': ' GERONTIC' },
+            { feat: feature.properties.gerontic, name: ' GERONTIC' },
             { feat: feature.properties.vitreous, name: ' VITREOUS'},
             { feat: feature.properties.little, name: ' LITTLE'}
            ];
@@ -91,4 +108,24 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
       }
     });
     gchq.addTo(isgchq_layer);
+    console.log(cableIDs);
   });
+// $.getJSON("./data/landing_points.geojson", function(data){
+//       var landingPoints = L.geoJson(data, {
+//           onEachFeature: function (feature, layer){
+//             for (var i = 0; i < cableIDs.length; i++) {
+//                 if (feature.properties.cable_id = cableIDs[i].id){
+//                     var cableNames = [];
+//                     cableNames.push(cableIDs[i].name);
+//                     feature.properties['cable_name'] = cableNames;
+//                 }
+//             };
+//             layer.bindPopup('<b>'+feature.properties.name+'</b><hr>'+ '<b>Cable: </b>'+feature.properties.cable_name)
+            
+//           },
+//           pointToLayer: function (feature, latlng) {
+//           return L.circleMarker(latlng, landingPoints_style)}
+//       });
+//     landingPoints.addTo(landing_points);
+// });
+
