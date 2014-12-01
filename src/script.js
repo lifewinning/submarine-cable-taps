@@ -1,6 +1,9 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoibGlmZXdpbm5pbmciLCJhIjoiYWZyWnFjMCJ9.ksAPTz72HyEjF2AOMbRNvg';
-var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: false })
+var map = L.mapbox.map('map', 'lifewinning.ip7d4kdk', {minZoom:2,zoomControl: false, attributionControl:true})
     .setView([0,0],2);
+
+map.attributionControl
+    .addAttribution('Cable data from <a href="http://submarinecablemap.com">Telegeography</a>, GCHQ data via <a href="http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable">Süddeutsche Zeitung</a> ');
 
 var layers = document.getElementById('map-ui');
 // layers
@@ -14,7 +17,7 @@ new L.Control.Zoom({ position: 'bottomleft' }).addTo(map);
 
 addLayer(nogchq_layer, 'gray', "Not In GCHQ Documents", 0);
 addLayer(isgchq_layer, 'orange', "In GCHQ Documents", 1);
-addLayer(landing_points, 'gray', "Landing Points", 2);
+//addLayer(landing_points, 'gray', "Cable Landing Points", 2);
 
 
 function addLayer(layer, id, name, zIndex) {
@@ -93,7 +96,7 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
             { feat: feature.properties.remedy, name: ' REMEDY' },
             { feat: feature.properties.pinnage, name: ' PINNAGE' },
             { feat: feature.properties.street_car, name: ' STREET CAR' },
-            { feat: feature.properties.gerontic, 'name': ' GERONTIC' },
+            { feat: feature.properties.gerontic, name: ' GERONTIC' },
             { feat: feature.properties.vitreous, name: ' VITREOUS'},
             { feat: feature.properties.little, name: ' LITTLE'}
            ];
@@ -107,22 +110,22 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
     gchq.addTo(isgchq_layer);
     console.log(cableIDs);
   });
-$.getJSON("./data/landing_points.geojson", function(data){
-      var landingPoints = L.geoJson(data, {
-          onEachFeature: function (feature, layer){
-            for (var i = 0; i < cableIDs.length; i++) {
-                if (feature.properties.cable_id = cableIDs[i].id){
-                    var cableNames = [];
-                    cableNames.push(cableIDs[i].name);
-                    feature.properties['cable_name'] = cableNames;
-                }
-            };
-            layer.bindPopup('<b>'+feature.properties.name+'</b><hr>'+ '<b>Cable: </b>'+feature.properties.cable_name)
+// $.getJSON("./data/landing_points.geojson", function(data){
+//       var landingPoints = L.geoJson(data, {
+//           onEachFeature: function (feature, layer){
+//             for (var i = 0; i < cableIDs.length; i++) {
+//                 if (feature.properties.cable_id = cableIDs[i].id){
+//                     var cableNames = [];
+//                     cableNames.push(cableIDs[i].name);
+//                     feature.properties['cable_name'] = cableNames;
+//                 }
+//             };
+//             layer.bindPopup('<b>'+feature.properties.name+'</b><hr>'+ '<b>Cable: </b>'+feature.properties.cable_name)
             
-          },
-          pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, landingPoints_style)}
-      });
-    landingPoints.addTo(landing_points);
-});
+//           },
+//           pointToLayer: function (feature, latlng) {
+//           return L.circleMarker(latlng, landingPoints_style)}
+//       });
+//     landingPoints.addTo(landing_points);
+// });
 
