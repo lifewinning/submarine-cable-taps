@@ -9,7 +9,7 @@ body { margin:0; padding:0; }
 	padding: 10px;
 	background-color: white;
 	width: 200px;
-	min-height: 10px;
+	min-height: 5%;
 	z-index: 99999;
 }
 /*nav*/
