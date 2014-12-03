@@ -1,4 +1,4 @@
-{
+
     "type": "FeatureCollection",
     "features": [
       {
@@ -1937,14 +1937,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -1980,14 +1980,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2023,14 +2023,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2071,14 +2071,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2109,14 +2109,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2147,14 +2147,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2205,14 +2205,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2253,14 +2253,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2291,14 +2291,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2329,14 +2329,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2367,14 +2367,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -2405,14 +2405,14 @@
           "owners": "Embratel,  AT&T,  Verizon Business,  Sprint,  CANTV,  Tata Communications,  Level 3,  Centennial of Puerto Rico,  Corporacion Nacional de Telecommunicaciones,  Telecom Argentina,  France Telecom,  Portugal Telecom,  Cable & Wireless Communications,  Corporacion Nacional de Telecommunicaciones",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "DCO",
+          "LITTLE": "DCO",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -8174,14 +8174,14 @@
           "owners": "Cable & Wireless Communications",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "DCO",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29808,14 +29808,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29861,14 +29861,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29914,14 +29914,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -29967,14 +29967,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -30015,14 +30015,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -30053,14 +30053,14 @@
           "owners": "Telecom New Zealand,  SingTel Optus,  Verizon Business",
           "url": "http://www.southerncrosscables.com",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "IRU/LC",
+          "GERONTIC": "IRU/LC",
+          "DACRON": "",
+          "LITTLE": "IRU/LC",
+          "PINNAGE": "IRU/LC",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -35734,14 +35734,14 @@
           "owners": "Level 3",
           "url": "",
           "": "",
-          "UK": null,
-          "REMEDY": null,
-          "GERONTIC": null,
-          "DACRON": null,
-          "LITTLE": null,
-          "PINNAGE": null,
-          "STREET CAR": null,
-          "VITREOUS": null
+          "UK": "",
+          "REMEDY": "",
+          "GERONTIC": "",
+          "DACRON": "",
+          "LITTLE": "",
+          "PINNAGE": "DCO",
+          "STREET CAR": "",
+          "VITREOUS": ""
         }
       },
       {
@@ -42999,4 +42999,3 @@
         }
       }
     ]
-  }
