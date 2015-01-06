@@ -9,7 +9,7 @@ body { margin:0; padding:0; }
 	padding: 10px;
 	background-color: white;
 	width: 200px;
-	min-height: 10px;
+	min-height: 5%;
 	z-index: 99999;
 }
 /*nav*/
@@ -30,12 +30,8 @@ body { margin:0; padding:0; }
 	width: auto;
     font: 12px Helvetica, sans-serif;
     font-weight: 800;
-    /*background: #FFF;*/
-    color: #FF9900;
     margin: 0;
     padding: 0;
-    /*border: 1px solid #CCC;*/
-    /*padding: 5px;*/
 }
 
 #map-ui li.label{
