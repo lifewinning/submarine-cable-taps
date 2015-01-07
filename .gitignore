@@ -1,4 +1,3 @@
 .DS_Store
 .~lock*
 node_modules
-data/joiner/node_modules
