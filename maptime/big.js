@@ -9,15 +9,15 @@ window.onload = function() {
         for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
         e.style.display = 'inline';
         e.style.fontSize = i + 'px';
-        if (e.firstChild && e.firstChild.nodeName === 'IMG') {
-            document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
-            document.body.style.backgroundRepeat = 'no-repeat';
-            e.firstChild.style.display = 'none';
-            if ('classList' in e) e.classList.add('imageText');
-        } else {
-            document.body.style.backgroundImage = '';
-            document.body.style.backgroundColor = e.style.backgroundColor;
-        }
+        // if (e.firstChild && e.firstChild.nodeName === 'IMG') {
+        //     document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
+        //     document.body.style.backgroundRepeat = 'no-repeat';
+        //     e.firstChild.style.display = 'none';
+        //     if ('classList' in e) e.classList.add('imageText');
+        // } else {
+        //     document.body.style.backgroundImage = '';
+        //     document.body.style.backgroundColor = e.style.backgroundColor;
+        // }
         if (ti !== undefined) window.clearInterval(ti);
         if (t > 0) ti = window.setTimeout(fwd, (t * 1000));
         while ((e.offsetWidth > window.innerWidth ||
