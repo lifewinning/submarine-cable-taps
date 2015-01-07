@@ -16,12 +16,7 @@ h1, h2, h3, p {
 em, a {
   font-style:normal;
   color:#2FBD57;
-}
-
-a {
-  background: #2FBD57;
-  color:#000;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 img {
