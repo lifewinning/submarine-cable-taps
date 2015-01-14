@@ -13,10 +13,18 @@ h1, h2, h3, p {
   margin:0;
 }
 
-em, a {
+em {
   font-style:normal;
   color:#2FBD57;
   text-decoration: none;
+}
+
+a {
+  em, a {
+  font-style:normal;
+  background:#2FBD57;
+  text-decoration: none;
+}
 }
 
 img {
