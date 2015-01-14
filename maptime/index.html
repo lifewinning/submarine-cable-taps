@@ -4,16 +4,16 @@
 
 <div>hi!</div>
 <div>you can follow along with these slides at<br><a href="http://lifewinning.github.io/submarine-cable-taps/maptime">lifewinning.github.io/submarine-cable-taps/maptime</a></div>
-<div>joining json data to a geojson file with <em>node</em></div>
 <div>adding a geojson file to a map in <em>leaflet</em></div>
 <div>spoiler: there are lots of ways to do this</div>
 <div>i was sloppy</div>
 <div>i just used <em>jquery</em></div>
 <div>no shame</div>
+<div>joining json data to a geojson file with <em>node</em></div>
 <!-- assumptions -->
 <div>assumptions</div>
-<div>the command line is your friend</div>
 <div>this is mostly <em>javascript</em></div>
+<div>the command line is your friend</div>
 <div>onward</div>
 <div><img src="img/sz.png"></div>
 <div><img src="img/sz-doc.png"></div>
@@ -23,19 +23,28 @@
 <div>many steps</div>
 <div>1. an image file PDF &rarr; json</div>
 <div>2. a KML file &rarr; geojson</div>
-<div>but right now let's focus on:</div>
 <div>3. smashy smash <em>magick</em></div>
-<div>basically</div>
-<div>a <em>table join</em></div>
-<div><img src="img/join_table_attributes.jpg"></div>
-<div>but in <em>json</em></div>
-<div>because we <em>can</em></div>
+<div>4. put it on a map</div>
+<div>working <em>backwards</em></div>
 <!-- what's json? what's geojson? -->
 <div>json and the argonauts</div>
 <div><em>j</em>ava<em><br>s</em>cript<br><em>o</em>bject<br><em>n</em>otation</div>
 <div><img src="img/json.png"></div>
 <div>omg <em>geo</em>json</div>
 <div><img src="img/geojson.png"></div>
+<!-- leaflet -->
+<div><img src="img/index-file.png"></div>
+<div><a href="https://github.com/lifewinning/submarine-cable-taps/blob/master/src/script.js">full javascript here</a></div>
+<div>fight me</div>
+<div><img src="img/leaflet-0.25.png"></div>
+<div><img src="img/leaflet-1.png"></div>
+<div><img src="img/leaflet-1.5.png"></div>
+<div><img src="img/leaflet-3.png"></div>
+<div><img src="img/leaflet-4.png"></div>
+<div>end result:<br><br><a href="http://lifewinning.com/submarine-cable-taps">lifewinning.com/submarine-cable-taps</a></div>
+<div>but <em>wait</em></div>
+<div>tell me more</div>
+<div>about these <em>data joins</em></div>
 <div>90% of the time</div>
 <div>when you have a code problem</div>
 <div>someone made a tool for it</div>
@@ -45,22 +54,14 @@
 <div>git clone<br><br><a href="https://github.com/mhkeller/joiner.git">https://github.com/mhkeller/joiner.git</a></div>
 <div>or</div>
 <div>npm install -g joiner</div>
-<div>command line</div>
+<div>using joiner in the command line</div>
 <div>joiner<br>-a FILE_PATH<br>-k DATASET_A_KEY<br>-b FILE_PATH<br>-l DATASET_B_KEY<br>-m (json|geojson)<br>-n NEST_ID<br>-o OUT_FILE_PATH<br>-d (summary|full)</div>
-<div>actual script</div>
+<div>using joiner in a script</div>
 <div><img src="img/joiner.png"></div>
 <div><img src="img/joinedjson.png"></div>
 <div>output json &rarr; geojson</div>
 <div><img src="img/joiner-edit.png"></div>
 <div><img src="img/joinedjson.png"></div>
-<div>3.5 separate non-GCHQ cables from GCHQ cables</div>
-<div>4. put it on a map</div>
-<div>fight me:<br><br><a href="http://github.com/lifewinning/submarine-cable-taps/">full javascript here</a></div>
-<div><img src="img/leaflet-1.png"></div>
-<div><img src="img/leaflet-1.5.png"></div>
-<div><img src="img/leaflet-3.png"></div>
-<div><img src="img/leaflet-4.png"></div>
-<div>end result:<br><br><a href="http://lifewinning.com/submarine-cable-taps">lifewinning.com/submarine-cable-taps</a></div>
 <div>all the code:<br><br><a href="http://github.com/lifewinning/submarine-cable-taps">github.com/lifewinning/submarine-cable-taps</a></div>
 <div>list of things used:</div>
 <div><a href="http://bit.ly/submarine-cable-maptime">bit.ly/submarine-cable-maptime</a></div>
