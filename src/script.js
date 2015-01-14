@@ -120,8 +120,8 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
         });
         //hacky way to present program associations
         var names = [
-            { feat: feature.properties.uk, name: 'UK Government'},
-            { feat: feature.properties.dacron, name: ' Verizon Business'  },
+            //{ feat: feature.properties.uk, name: 'UK Government'},
+            { feat: feature.properties.dacron, name: 'Verizon Business'  },
             { feat: feature.properties.remedy, name: ' British Telecom' },
             { feat: feature.properties.pinnage, name: ' Global Crossing' },
             { feat: feature.properties.street_car, name: ' Interoute' },
