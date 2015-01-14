@@ -4,6 +4,8 @@
 
 Seeing Telegeography publishes landing point maps and [submarine cable maps](http://submarinecablemap.com) it seemed like a worthwhile exercise to better understand what, exactly, the reach of GCHQ's submarine cable tapping might look like. 
 
+Update: Turns out James Ball [casually identified](http://www.theguardian.com/business/2013/aug/02/telecoms-bt-vodafone-cables-gchq) which companies are linked to these top-secret programs like, a year ago. Like you do. The map has been updated to reflect associated programs.  
+
 ##Some caution
 
 Initial methods are very, very messy here. There's a lot of data cleanup that is probably going to need to happen. Reasons for the messiness:
@@ -27,6 +29,7 @@ What I'm saying is don't just run with this dataset, it really needs some thorou
 ##References
 
 - Obviously so grateful that Süddeutsche Zeitung put all these documents [online](https://drive.google.com/file/d/0B9F6ub8wD7gqaDJIOEhfaG9PQzA/view).
+- Thanks James Ball at The Guardian for just putting those program names out there and Jeff Larson for pointing that out.
 - [pypdfocr](https://pypi.python.org/pypi/pypdfocr) is a goddamn lifesaver command line tool. Seriously. 
 - [Tabula](http://tabula.technology/) is great for quick-and-dirty csv-ifying of OCR-ed PDF tables.
 - [Joiner](http://github.com/mhkeller/joiner) is a nice little node module by my friend Michael Keller that lets you do the kind of table joins you want to do in GIS software but with jsons. 

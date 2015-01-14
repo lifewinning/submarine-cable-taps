@@ -120,14 +120,14 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
         });
         //hacky way to present program associations
         var names = [
-            { feat: feature.properties.uk, name: 'UK'},
-            { feat: feature.properties.dacron, name: ' DACRON'  },
-            { feat: feature.properties.remedy, name: ' REMEDY' },
-            { feat: feature.properties.pinnage, name: ' PINNAGE' },
-            { feat: feature.properties.street_car, name: ' STREET CAR' },
-            { feat: feature.properties.gerontic, name: ' GERONTIC' },
-            { feat: feature.properties.vitreous, name: ' VITREOUS'},
-            { feat: feature.properties.little, name: ' LITTLE'}
+            { feat: feature.properties.uk, name: 'UK Government'},
+            { feat: feature.properties.dacron, name: ' Verizon Business'  },
+            { feat: feature.properties.remedy, name: ' British Telecom' },
+            { feat: feature.properties.pinnage, name: ' Global Crossing' },
+            { feat: feature.properties.street_car, name: ' Interoute' },
+            { feat: feature.properties.gerontic, name: ' Vodafone Cable' },
+            { feat: feature.properties.vitreous, name: ' Viatel'},
+            { feat: feature.properties.little, name: ' Level 3 Communications'}
            ];
         var programs = [];
         for (var i = 0; i < names.length; i++) {
@@ -135,7 +135,7 @@ $.getJSON("./data/joined_isgchq.geojson", function(data) {
           feature.properties.programs = programs;
           };
         };
-        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners+'<hr><b>Associated GCHQ Programs: </b><br>'+ feature.properties.programs)
+        layer.bindPopup('<h3>'+feature.properties.name+'</h3><hr><b>Owners: </b>'+feature.properties.owners+'<hr><b>Telecoms Providing Access to GCHQ: </b><br>'+ feature.properties.programs)
       }
     });
     gchq.addTo(isgchq_layer);
